@@ -1,0 +1,9 @@
+Acessar o link:
+
+ - https://nodejs.org/en/
+
+Baixar a versão LTS (14.18)
+
+Documentação:
+ 
+ -https://nodejs.org/en/docs/
