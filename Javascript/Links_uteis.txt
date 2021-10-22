@@ -1,0 +1,8 @@
+w3 schools
+https://www.w3schools.com/js/
+
+Developer Mozzila
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
+DevMedia
+https://www.devmedia.com.br/javascript-tutorial/37257

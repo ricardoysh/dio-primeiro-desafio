@@ -1,0 +1,13 @@
+$ git init      #inicializa o git e cria um repositório
+
+$ git add *
+
+$ git commit -m "msg"
+
+$ git status
+
+$ git config --list
+
+$ git config --global --unset user.email
+
+$ git config --global --unset user.nickname
